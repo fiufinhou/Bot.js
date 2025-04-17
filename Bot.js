@@ -1,5 +1,5 @@
 const TelegramBot = require('node-telegram-bot-api');
-const token = 'YOUR_BOT_TOKEN'; // استبدل بـ Token البوت الخاص بك
+const token = '6865115340:AAGdU6mPFLJO34-C1FCLz_aYEEEHSjoE0Bw go'; // استبدل بـ Token البوت الخاص بك
 const bot = new TelegramBot(token, { polling: true });
 
 let players = [];
